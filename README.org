@@ -1,0 +1,67 @@
+* Cybernautical & Political Compass
+
+  "The Fully-Augmented Dirt-Cheap Luxury Super-Empowered Network/Agent
+  Cybernautical & Political Compass"
+
+** WTF Is This?
+
+   This political compass attempts to place various tools and
+   practices on an axis of voluntary/involuntary and sharing/hiding
+   activities.
+
+   *Why fully-augmented?* Because augmentation is better than
+   automation.  These words may often refer to the same thing and
+   automation is often just the implementation of augmentation, but
+   the key difference is putting the capabilities of agents and the
+   amplification of those capabilities front and center in the design
+   and implementation of technologies.
+
+   *Why dirt-cheap luxury?* Because unimaginably advanced technology
+   should be available to all.  Or as [[https://goo.gl/8z8Nx5][Jeremy Rifkin puts it]] "A legion
+   of prosumers is producing and sharing 3D printed products at
+   near-zero marginal cost on the collaborative commons."
+
+   *Why super-empowered network/agent* This turn of phrase is more or
+   less a nod to [[https://goo.gl/GrwAQ7][Kevin Carson's "Desktop Regulatory State"]], but it
+   also stands alone well in explaining itself.
+
+   *Why 'cybernautical'?* Cybernetics is the scientific/technological
+   discipline concerned with regulatory systems.  The cybernetic agent
+   is a node of autonomous control.  Tools and practices that expand
+   sphere of options for agents, and networks of cooperating or
+   coordinating agents, to control their environments and theirselves
+   with respect to environments, are a major interest of cybernetics.
+
+   "Cybernaut" is a somewhat whimsical term for the autonomous agent
+   as an explorer and changer of the world.  "Cybernautical compass"
+   is a play on "nautical compass", as the steerer of his/her own
+   course may find useful.
+
+   *Why political?* Because we live in a world of conflicting
+   interests in which flesh-and-blood human beings must consider their
+   well-being and the well-being of their families and extended
+   networks of solidarity.  The political exists as long as there are
+   conflicts over what is right, and what actions serve rightful ends.
+
+   A world in which conflicts are interest are addressed peacefully
+   and voluntarily is a non-political world.  That world also exists
+   today but much work needs to be done for it to prevail as the main
+   mode of global and local human organization.
+
+** Contributing
+
+   To contribute an idea for a change, create an issue.
+
+   If you are contributing a change, make a PR that only modifies the
+   SVG file.  (I will use [[https://inkscape.org][Inkscape]] to verify the change looks good,
+   and then I will generate and push the updated PNG export.)
+
+** License
+
+Copyright © 2017 Robert P. Levy
+
+Distributed Under License CC BY 4.0
+
+https://creativecommons.org/licenses/by/4.0/
+
+Tips: https://blockchain.info/address/1Ct3AXHK16hdYbx5DLEiZo2W8h4huQfXD3
